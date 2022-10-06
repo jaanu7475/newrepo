@@ -1,1 +1,2 @@
 hey there!This is an empty repository..
+Here we are using git reset command
